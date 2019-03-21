@@ -1,6 +1,6 @@
 # note_keeper_flutter
 
-A new Flutter application.
+A Flutter Note Keeper Application. It uses SQLite database using sqflite plugin.
 
 ## Getting Started
 
